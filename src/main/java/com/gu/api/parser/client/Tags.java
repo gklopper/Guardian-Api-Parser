@@ -1,13 +1,19 @@
 package com.gu.api.parser.client;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class Tags {
+@SuppressWarnings("serial")
+public class Tags implements Serializable {
 	
 	private Integer count;
 	private Integer startIndex;
 	private List<Tag> tags;
 	private String xml;
+	
+	public Tags() {
+		
+	}
 
 	public Tags(Integer count, Integer startIndex, List<Tag> tags) {
 		this.count = count;
