@@ -28,6 +28,7 @@
 				<directory>src/main/java</directory>
 				<includes>
 					<include>**/client/**</include>
+					<include>**/server/**</include>
 					<include>**/*.gwt.xml</include>
 				</includes>
 			</resource>
