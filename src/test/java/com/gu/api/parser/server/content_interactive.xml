@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<content id="350349308" type="interactive" web-url="http://www.guardian.co.uk/sport/interactive/2009/jul/16/ashes-video-highlights" api-url="http://api.guardianapis.com/content/item/350349308">
+  <publication>guardian.co.uk</publication>
+  <headline>Watch England v Australia Ashes highlights</headline>
+  <section-name>Sport</section-name>
+  <trail-text> Watch highlights of England&apos;s Ashes Test series against Australia on your desktop this summer </trail-text>
+  <link-text>Watch England v Australia cricket video highlights</link-text>
+
+  <trail-image>http://static.guim.co.uk/sys-images/Sport/Pix/columnists/2009/7/9/1247140369010/Kevin-Pietersen-004.jpg</trail-image>
+  <publication-date>2009-07-16T00:00:00</publication-date>
+  <tagged-with>
+    <tag name="Interactive" type="content-type" filter="/global/interactive" api-url="http://api.guardianapis.com/content/search?filter=/global/interactive" web-url="http://www.guardian.co.uk/interactive"/>
+    <tag name="Ashes" type="keyword" filter="/sport/ashes" api-url="http://api.guardianapis.com/content/search?filter=/sport/ashes" web-url="http://www.guardian.co.uk/sport/ashes"/>
+    <tag name="Australia Cricket Team" type="keyword" filter="/sport/australia-cricket-team" api-url="http://api.guardianapis.com/content/search?filter=/sport/australia-cricket-team" web-url="http://www.guardian.co.uk/sport/australia-cricket-team"/>
+    <tag name="Cricket" type="keyword" filter="/sport/cricket" api-url="http://api.guardianapis.com/content/search?filter=/sport/cricket" web-url="http://www.guardian.co.uk/sport/cricket"/>
+    <tag name="England cricket series" type="keyword" filter="/sport/england-cricket-series" api-url="http://api.guardianapis.com/content/search?filter=/sport/england-cricket-series" web-url="http://www.guardian.co.uk/sport/england-cricket-series"/>
+
+    <tag name="England Cricket Team" type="keyword" filter="/sport/england-cricket-team" api-url="http://api.guardianapis.com/content/search?filter=/sport/england-cricket-team" web-url="http://www.guardian.co.uk/sport/england-cricket-team"/>
+    <tag name="Sport" type="keyword" filter="/sport" api-url="http://api.guardianapis.com/content/search?filter=/sport" web-url="http://www.guardian.co.uk/sport"/>
+  </tagged-with>
+  <type-specific class="interactive"/>
+</content>

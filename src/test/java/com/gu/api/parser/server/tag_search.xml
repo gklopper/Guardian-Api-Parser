@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<tags count="6517" start-index="3">
+  <tag name="Cleantech 100 electricals" type="keyword" filter="/environment/cleantech100electricals" api-url="http://api.guardianapis.com/content/search?filter=/environment/cleantech100electricals" web-url="http://www.guardian.co.uk/environment/cleantech100electricals"/>
+  <tag name="Daily Mail &amp; General Trust" type="keyword" filter="/media/dmgt" api-url="http://api.guardianapis.com/content/search?filter=/media/dmgt" web-url="http://www.guardian.co.uk/media/dmgt"/>
+</tags>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<content id="344089365" type="gallery" web-url="http://www.guardian.co.uk/katine/gallery/2009/mar/04/owino-market-fire-kampala" api-url="http://api.guardianapis.com/content/item/344089365">
+  <publication>guardian.co.uk</publication>
+  <headline>Fire at Owino market in Kampala</headline>
+  <standfirst>Owino, situated in Uganda&apos;s capital, Kampala, is one of the city&apos;s largest outdoor markets, with more than 500,000 vendors. Ten years ago, traders set up a secondary market in the car park of neighbouring Nakivubo stadium, which became known as Nakivubo Parkyard Market. This market, like the rest of Owino, was a warren of stalls selling clothes, food, spices and household goods. In the early hours of 25 February 2009, a fire ripped through Nakivubo Parkyard market, destroying goods and livelihoods. A Guardian team of journalists visited the market before and after the fire. Here&apos;s what they found.By Annie Kelly and Laurence Topham</standfirst>
+  <byline>Annie Kelly</byline>
+  <section-name>Katine</section-name>
+  <trail-text> Owino, situated in Uganda&apos;s capital, Kampala, is one of the city&apos;s largest outdoor markets, with more than 500,000 vendors. In the early hours of 25 February 2009, a fire ripped through a part of the market, destroying goods and livelihoods. A Guardian team of journalists visited the market before and after the fire. Here&apos;s what they found </trail-text>
+  <link-text>Fire at Owino market in Kampala</link-text>
+  <trail-image>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2009/3/3/1236101530947/Women-sit-in-Owino-market-003.jpg</trail-image>
+  <publication-date>2009-03-04T00:00:00</publication-date>
+  <tagged-with>
+    <tag name="Annie Kelly" type="contributor" filter="/global/anniekelly" api-url="http://api.guardianapis.com/content/search?filter=/global/anniekelly" web-url="http://www.guardian.co.uk/profile/anniekelly"/>
+    <tag name="Gallery" type="content-type" filter="/global/gallery" api-url="http://api.guardianapis.com/content/search?filter=/global/gallery" web-url="http://www.guardian.co.uk/inpictures"/>
+    <tag name="Laurence Topham" type="contributor" filter="/global/laurencetopham" api-url="http://api.guardianapis.com/content/search?filter=/global/laurencetopham" web-url="http://www.guardian.co.uk/profile/laurencetopham"/>
+    <tag name="Katine" type="keyword" filter="/katine" api-url="http://api.guardianapis.com/content/search?filter=/katine" web-url="http://www.guardian.co.uk/katine"/>
+    <tag name="Uganda" type="keyword" filter="/world/uganda" api-url="http://api.guardianapis.com/content/search?filter=/world/uganda" web-url="http://www.guardian.co.uk/world/uganda"/>
+    <tag name="World news" type="keyword" filter="/world" api-url="http://api.guardianapis.com/content/search?filter=/world" web-url="http://www.guardian.co.uk/world"/>
+  </tagged-with>
+  <type-specific class="gallery">
+    <picture-count>16</picture-count>
+  </type-specific>
+</content>
