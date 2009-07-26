@@ -7,9 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<gwtVersion>1.6.4</gwtVersion>
+		<gwtVersion>1.7.0</gwtVersion>
 		<javaVersion>1.5</javaVersion>
-		<junitVersion>4.0</junitVersion>
+		<junitVersion>4.6</junitVersion>
 	</properties>
 
 	<build>
