@@ -6,6 +6,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -23,8 +24,9 @@ import com.gu.api.parser.client.Tags;
 
 
 public class ApiParser {
-	
-	public static Search parseSearch(InputStream xml) throws SAXException, IOException, ParserConfigurationException, ParseException {
+    private static final SimpleDateFormat PUBLICATION_DATE_FORMAT = new SimpleDateFormat("yyy-MM-dd HH:mm:ss", Locale.UK);
+
+    public static Search parseSearch(InputStream xml) throws SAXException, IOException, ParserConfigurationException, ParseException {
 		
 		Document document = DocumentBuilderFactory.newInstance().newDocumentBuilder().parse(xml);
 		
@@ -72,7 +74,7 @@ public class ApiParser {
 	    content.setTrailImage(elementValueOrNull(item, "trail-image"));
 	    
 	   
-	    content.setPublicationDate(new SimpleDateFormat("yyy-MM-dd HH:mm:ss").parse(item.getElementsByTagName("publication-date").item(0).getTextContent().replace("T", " ")));
+	    content.setPublicationDate(PUBLICATION_DATE_FORMAT.parse(item.getElementsByTagName("publication-date").item(0).getTextContent().replace("T", " ")));
 	    
 	    Element tags = (Element) item.getElementsByTagName("tagged-with").item(0);
 		NodeList tagList = tags.getElementsByTagName("tag");
