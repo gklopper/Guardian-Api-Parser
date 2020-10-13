@@ -9,7 +9,7 @@
 	<properties>
 		<gwtVersion>1.7.0</gwtVersion>
 		<javaVersion>1.5</javaVersion>
-		<junitVersion>4.6</junitVersion>
+		<junitVersion>4.13.1</junitVersion>
 	</properties>
 
 	<build>
